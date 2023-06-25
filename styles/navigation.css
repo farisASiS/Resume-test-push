@@ -1,0 +1,48 @@
+.nav{
+  display: flex;
+  flex-direction: row;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+a:hover, a:active {
+  color: rgb(99, 99, 99);
+}
+
+.Home{
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-bottom: 20px;
+  padding-right: 30px;
+}
+
+.Professional{
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-bottom: 20px;
+  padding-right: 30px;
+}
+
+.Skills{
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-bottom: 20px;
+  padding-right: 30px;
+}
+
+.Education{
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-bottom: 20px;
+  padding-right: 30px;
+}
+
+.Projects{
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-bottom: 20px;
+  padding-right: 30px;
+}

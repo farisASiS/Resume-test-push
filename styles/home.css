@@ -1,0 +1,30 @@
+.pictures{
+  margin-left: 30px;
+  width: 300px;
+  margin-top: 20px; 
+}
+
+.name{
+  font-size: 50px;
+  margin-left: 40px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.status{
+  margin-left: 40px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.email{
+  margin-left: 40px;
+}
+
+.location{
+  margin-left: 40px;
+}
+
+.phone{
+  margin-left: 40px;
+}

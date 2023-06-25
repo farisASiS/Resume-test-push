@@ -1,0 +1,46 @@
+.title{
+  margin-left: 30px;
+  font-size: 50px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.company1{
+  margin-left: 30px;
+  margin-bottom: 80px;
+}
+
+.company1-logo{
+  width: 300px;
+  border-style: solid;
+  border-radius: 1px;
+  border-color: rgb(248, 248, 248);
+}
+
+.company1-name{
+  font-weight: bolder;
+  font-size: 25px;
+  margin-bottom: 0px;
+}
+
+.company1-position{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.company1-location{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.company1-date{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.company1-list{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: -10px;
+
+}
